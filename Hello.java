@@ -7,6 +7,7 @@ public class Hello{
 		System.out.println("What is Git?");
 		System.out.println("That's DVCS!");
 		System.out.println("This is DVCS!!!!!!");
+		System.out.println("That's version control");
 	}
 }
 
